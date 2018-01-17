@@ -1,0 +1,11 @@
+{
+  "name": "content-reactor",
+  "version": "0.1.0",
+  "description": "Store reactions to content in Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}

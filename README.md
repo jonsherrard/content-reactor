@@ -22,11 +22,11 @@ var firebaseAppConfig = { /* Copy from the Firebase console */
 }
 
 const Clapper = ({active, count}) =>
-  <div>
+  <Fragment>
     {active ? <bold> : null}
     👏 <span>{count}</span>
     {active ? </bold> : null}
-  </div>
+  </Fragment>
 
 // currentURL: /posts/2018/01/01/my-fresh-hot-content/12383
 

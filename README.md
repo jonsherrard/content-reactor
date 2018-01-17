@@ -8,7 +8,7 @@ The users current selection is stored as a cookie against the ID, so if they rev
 
 ## Usage
 
-```
+```js
 
 import React, { Fragment } from 'react'
 import ContentReactor from 'content-reactor'
